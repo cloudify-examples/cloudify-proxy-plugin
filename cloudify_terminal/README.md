@@ -219,6 +219,7 @@ node_templates:
 ```
 
 **Example 7: Use terminal as hooks**
+* Add event handler to `/opt/mgmtworker/config/hooks.conf`
 
 ```yaml
 hooks:
